@@ -3,7 +3,7 @@ Liste d'ami < NomDeVotreBot < Murmurer < "help" pour afficher la liste de comman
 
 # IMPORTANT :
 Bien changer de NetCL après chaque mises à jour (`config.json`) sinon le bot se connectera sur une mauvaise version du jeu ce qui ne permettera pas au bot de rejoindre votre partie.
-- Fortnite 12.50 : 12895384
+- Fortnite 12.61 : 13228591
 
 # Requis :
  - Un compte Epic Games neuf : https://accounts.epicgames.com/login/ pour compléter le `config.json`.
