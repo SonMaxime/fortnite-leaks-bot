@@ -1,0 +1,20 @@
+{
+  "name": "HTTP-Fortnite-Bot",
+  "version": "1.0.0",
+  "description": "Utilise JavaScript pour émuler uModel dans Fortnite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "!skin"
+  },
+  "keywords": [],
+  "author": "SonMaxime",
+  "license": "ISC",
+  "bugs": {
+  },
+  "dependencies": {
+    "epicgames-client": "^2.0.17",
+    "epicgames-fortnite-client": "^2.0.16",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
