@@ -14,5 +14,5 @@ Bien changer de NetCL après chaque mises à jour (`config.json`) sinon le bot s
  - Liste des objets : https://docs.google.com/spreadsheets/d/1gVDgnzNyMCafIWa-dBO3mgNUHmHzgA9O5sWbfQy2Yfg/edit?usp=drivesdk
 
 # Réseaux :
-- Discord : @SonMaxime.🌈#9355
+- Discord : @SonMaxime.#9355
 - Twitter : @SonMaxime7Binks
