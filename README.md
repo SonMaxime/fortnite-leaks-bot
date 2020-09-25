@@ -15,4 +15,4 @@ Bien changer de NetCL après chaque mises à jour (`config.json`) sinon le bot s
 
 # Réseaux :
 - Discord : @SonMaxime.#9355
-- Twitter : @SonMaxime7Binks
+- Twitter : @SonMaxime667Bin
