@@ -146,7 +146,7 @@ for (var i = 0; i < 1e7; i++) {
 
       fortnite.party.me.setBackpack("/Game/Athena/Items/Cosmetics/Backpacks/" + config.bid + "." + config.bid);
 
-      fortnite.party.me.setPickaxe("/Game/Athena/Items/Cosmetics/Pickaxes/" + config.pickaxe_id + "." + config.pickaxe_id); // ALL OF THE THINGS ARE PULLED CONFIG!
+      fortnite.party.me.setPickaxe("/Game/Athena/Items/Cosmetics/Pickaxes/" + config.pickaxe_id + "." + config.pickaxe_id);
 
       fortnite.party.me.setEmote("/Game/Athena/Items/Cosmetics/Dances/" + config.eid + "." + config.eid);
     }
