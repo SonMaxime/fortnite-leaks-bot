@@ -178,15 +178,6 @@ for (var i = 0; i < 1e7; i++) {
           }
         }
 
-        if(args[0].toLowerCase() == ".bp"){
-          try {
-            fortnite.party.me.setBattlePass(true, args[1], args[2], args[3]);
-            eg.communicator.sendMessage(data.friend.id, "BP mis à " + args[1] + " " + args[2] + " " + args[3] + "!");
-          } catch {
-            eg.communicator.sendMessage(data.friend.id, "Utilisez .bp LEVEL XPPERSO FRIENDXP");
-          }
-        }
-
         if(args[0].toLowerCase() == ".stop"){
           try {
             fortnite.party.me.clearEmote();
